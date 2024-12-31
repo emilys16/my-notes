@@ -1,8 +1,8 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: Wedding Party Planning - Project Proposal
 draft: false
 tags:
-  - 
+  - MGMT3300
 ---
  
 # Case: 
