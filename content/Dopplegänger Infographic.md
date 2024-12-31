@@ -2,6 +2,7 @@
 title: Dopplegänger Infographic
 draft: false
 tags:
+  - CTS1000
 ---
  
 ![[infographic.png]]

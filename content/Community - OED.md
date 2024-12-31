@@ -2,6 +2,7 @@
 title: Community - OED
 draft: false
 tags:
+  - CTS1000
 ---
 ### **Three sources for ­­­“Community, n.” in the OED**
 **Student name**: Emily Scott

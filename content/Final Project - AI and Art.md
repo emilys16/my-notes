@@ -2,6 +2,7 @@
 title: Final Project - AI and Art
 draft: false
 tags:
+  - CTS1000
 ---
  
 ### **INTRODUCTION**

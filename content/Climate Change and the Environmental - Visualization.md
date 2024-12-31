@@ -2,6 +2,7 @@
 title: Climate Change and the Environmental - Visualization
 draft: false
 tags:
+  - CTS1000
 ---
 Below is a graph on climate change. The graph compares the differences between average winter temperatures from 1900 to 2018 (The Learning Network, 2019). Looking at the graph, it is clear that over the 118 years of data, the climate temperature has been rapidly increasing. There has been a steady increase in temperature over time after 1945, with the last cold winter going below 5F in 1979. Based on the data below, it is clear that this drastic temperature change has harmed the environment.
 

@@ -2,6 +2,7 @@
 title: Project Proposal - The History of Make
 draft: false
 tags:
+  - CTS1000
 ---
  The keyword "Make" was used in various [backgrounds](https://www.oed.com/dictionary/make_v1?tab=etymology&typeOfFormation=derivative) dating back to the 12th century and was initially inherited from the Germanic people. A prominent historical use of the verb was the Indo-European based word _maeddu_, which means 'to knead or work with the hands.' This is congruent with the modern use of the word, which is associated with creating things, whether it is art, cooking, baking, music, or pottery. The derivatives of make include making, made, and mend, frequently used in replacement for historical definitions.
 
