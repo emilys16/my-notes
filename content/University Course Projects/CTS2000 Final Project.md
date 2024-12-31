@@ -13,11 +13,11 @@ tags:
 import praw 
 
 # Importing Reddit API credentials
-reddit = praw.Reddit(client_id='ZUcLjBrHNZdgv6Cr_R-JBg',
-                     client_secret='GglbjUOsuQbO2fTB79BFoaHhHo1H6w', 
-                     password='MartyTheCat1',
-                     user_agent='2024_CTS_Analysis', 
-                     username='16ylime')
+reddit = praw.Reddit(client_id='REDACTED',
+                     client_secret='REDACTED', 
+                     password='REDACTED',
+                     user_agent='REDACTED', 
+                     username='REDACTED')
 
 # Test credentials to use for unpopularopinion subreddit
 print(reddit.user.me())
