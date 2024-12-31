@@ -2,6 +2,7 @@
 WHITBY, ON | (647) 535-3334
 [escott15@uoguelph.ca](mailto:escott15@uoguelph.ca) | [linkedin/in/emilyscott19](https://www.linkedin.com/in/emilyscott19/)
 
+---
 ## Summary of Qualifications
 - 8 months co-op experience working as a Records and Information Management Assistant
 - Educational experience using Java, Python, Pandas, and Tableau to analyze datasets
@@ -11,6 +12,7 @@ WHITBY, ON | (647) 535-3334
 - Proactive and adaptable, with willingness to learn and take on new challenges in a fast-paced setting.
 - Advanced use of Microsoft Office tools, including Excel, Word, PowerPoint, Outlook, and Teams.
 
+---
 ## **Education & Training**
 #### Bachelor of Commerce, Management (Co-op), Sep 2022 – Present
 University of Guelph, Guelph ON          
@@ -30,6 +32,7 @@ Canadian Red Cross, Oshawa ON
 #### Smart Serve, Sept 2022
 Smart Serve Ontario, Whitby ON
 
+---
 ## Work and volunteer experience
 #### Records and Information Management Assistant (Full-Time, Co-op), May 2024 – Aug 2024 & Jan 2025 – Apr 2025
 Central Lake Ontario Conservation Authority, Oshawa ON
@@ -50,6 +53,7 @@ Freshco, Brooklin ON
 - Conducted training session for new employees, preparing them for a fast-paced work environment and teaching rules, regulations, and expectations; employees were well-equipped and knowledgeable to perform their duties effectively.
 - Conducted cash office operations ensuring accountabilities for all daily transactions including computer filing money/media deposits, ensured accurate cash and card transactions, and provided information about the products or services through phone calls and emails.
 
+---
 ## Extra-curricular Involvement
 #### Marketing/Communications and Partnership Development (Volunteer), Sep 2024 – Present
 UofG Food Market, Guelph ON
