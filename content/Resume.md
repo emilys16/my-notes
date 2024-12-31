@@ -13,27 +13,27 @@ WHITBY, ON | (647) 535-3334
 
 ## **Education & Training**
 
-#### Bachelor of Commerce, Management (Co-op), Sep 2022 – Present
+#### <span style="color:#7b97aa">Bachelor of Commerce, Management (Co-op), Sep 2022 – Present</span>
 **University of Guelph, Guelph ON**          
 - Minor in Culture and Technology Studies
 - Recipient of the Scotiabank Leadership Scholarship
 - Competed in the Great Ethical Dilemma case competition with a team of 5 to devise a solution over the course of 72 hours with a final score of 90%.
 
-#### Certified Associate in Project Management (CAPM), Jan 2025
+#### <span style="color:#7b97aa">Certified Associate in Project Management (CAPM), Jan 2025</span>
 **Project Management Institute – Canada’s Technology Triangle Chapter, Guelph ON**
 
-#### FOIPPA Foundations – Privacy and Access Fundamentals, Jul 2024
+#### <span style="color:#7b97aa">FOIPPA Foundations – Privacy and Access Fundamentals, Jul 2024</span>
 **Government of British Columbia Ministry of Citizens’ Service, BC**
 
-#### First Aid & CPR/AED Level C, May 2024
+#### <span style="color:#7b97aa">First Aid & CPR/AED Level C, May 2024</span>
 **Canadian Red Cross, Oshawa ON**
 
-#### Smart Serve, Sept 2022
+#### <span style="color:#7b97aa">Smart Serve, Sept 2022</span>
 **Smart Serve Ontario, Whitby ON**
 
 ## Work and volunteer experience
 
-#### Records and Information Management Assistant (Full-Time, Co-op), May 2024 – Aug 2024 & Jan 2025 – Apr 2025
+#### <span style="color:#7b97aa">Records and Information Management Assistant (Full-Time, Co-op), May 2024 – Aug 2024 & Jan 2025 – Apr 2025</span>
 **Central Lake Ontario Conservation Authority, Oshawa ON**
 - Utilized Esri ArcGIS and Geocortex Essentials to map and manage IMS record files, ensuring accurate and up-to-date spatial data.
 - Assisted with front desk responsibilities, including issuing parking passes, answering phone calls, and providing exceptional customer service.
