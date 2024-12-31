@@ -1,8 +1,7 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: Community - OED
 draft: false
 tags:
-  - 
 ---
 ### **Three sources for ­­­“Community, n.” in the OED**
 **Student name**: Emily Scott
