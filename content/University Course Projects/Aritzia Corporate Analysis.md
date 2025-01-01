@@ -2,7 +2,7 @@
 title: Aritzia Corporate Analysis
 draft: false
 tags:
-  - MGMT1200
+  - MGMT1000
 ---
 ---
 # Executive Summary
