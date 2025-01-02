@@ -11,6 +11,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       /*GitHub: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",*/
+      "LinkedIn": "https://www.linkedin.com/in/emilyscott19/"
+      "Goodreads": "https://www.goodreads.com/user/show/137281730-emily-scott"
     },
   }),
 }
