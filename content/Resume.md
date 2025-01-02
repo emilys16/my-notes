@@ -1,5 +1,5 @@
 # Emily Scott
-WHITBY, ON | (647) 535-3334
+WHITBY, ON | GUELPH, ON | (647) 535-3334 |
 [escott15@uoguelph.ca](mailto:escott15@uoguelph.ca) | [linkedin/in/emilyscott19](https://www.linkedin.com/in/emilyscott19/)
 
 ---
