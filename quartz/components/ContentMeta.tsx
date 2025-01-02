@@ -26,6 +26,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
   function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
     const text = fileData.text
 
+    // THIS IS "IF" STATEMENT IS THE ADDED BIT FOR NO DATE ON INDEX PAGE
+    if (fileData.slug === "index") {
+      return <></>
+    }
+
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
@@ -56,3 +61,5 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
   return ContentMetadata
 }) satisfies QuartzComponentConstructor
+
+
