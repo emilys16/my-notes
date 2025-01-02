@@ -1,7 +1,7 @@
 ---
-title: Welcome
+title: Welcome!
 ---
-![[indexpic.png]]
+![[HomepageBanner2_20182.jpg]]
 
 Welcome to my University of Guelph portfolio. Here you will find projects from business, technology, culture, and creative courses.
 
