@@ -1,5 +1,5 @@
 ---
-title: CTS*2000 Final Project - Python Exercise 3 Upgrade
+title: ★ CTS*2000 Final Project - Python Exercise 3 Upgrade
 draft: false
 tags:
   - CTS2000

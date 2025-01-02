@@ -1,5 +1,5 @@
 ---
-title: Data Mining with Reddit API - Python Exercise 3
+title: ★ Data Mining with Reddit API - Python Exercise 3
 draft: false
 tags:
   - CTS2000

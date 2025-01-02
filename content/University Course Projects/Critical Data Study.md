@@ -1,5 +1,5 @@
 ---
-title: "Critical Data Study: The Book of Negros"
+title: "★ Critical Data Study: The Book of Negros"
 draft: false
 tags:
   - CTS2000

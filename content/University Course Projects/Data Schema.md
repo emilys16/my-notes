@@ -1,5 +1,5 @@
 ---
-title: "Data Schema - The Covid Museum: Journey into Unprecedented Times"
+title: "★ Data Schema - The Covid Museum: Journey into Unprecedented Times"
 draft: false
 tags:
   - CTS2000

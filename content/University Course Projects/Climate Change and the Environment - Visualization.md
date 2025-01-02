@@ -1,5 +1,5 @@
 ---
-title: ☞Climate Change and the Environment - Visualization
+title: ★ Climate Change and the Environment - Visualization
 draft: false
 tags:
   - CTS1000

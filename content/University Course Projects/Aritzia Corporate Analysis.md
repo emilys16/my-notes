@@ -1,5 +1,5 @@
 ---
-title: Aritzia Corporate Analysis
+title: ★ Aritzia Corporate Analysis
 draft: false
 tags:
   - MGMT1000

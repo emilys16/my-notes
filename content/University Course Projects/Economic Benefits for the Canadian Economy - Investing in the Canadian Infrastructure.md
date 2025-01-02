@@ -1,5 +1,5 @@
 ---
-title: "Economic Benefits for the Canadian Economy: Investing in the Canadian Infrastructure"
+title: "★ Economic Benefits for the Canadian Economy: Investing in the Canadian Infrastructure"
 draft: false
 tags:
   - ECON1100

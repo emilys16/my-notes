@@ -1,5 +1,5 @@
 ---
-title: The Equity and Efficiency Implications of the Sports Market
+title: ★ The Equity and Efficiency Implications of the Sports Market
 draft: false
 tags:
   - ECON1050

@@ -1,5 +1,5 @@
 ---
-title: Unilever's Acquisition of Greyston Bakery
+title: ★ Unilever's Acquisition of Greyston Bakery
 draft: false
 tags:
   - MGMT1200

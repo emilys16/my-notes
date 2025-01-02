@@ -1,5 +1,5 @@
 ---
-title: The Book of Negroes - Python Exercise 2
+title: ★ The Book of Negroes - Python Exercise 2
 draft: false
 tags:
   - CTS2000

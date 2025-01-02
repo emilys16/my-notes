@@ -1,5 +1,5 @@
 ---
-title: Dopplegänger Infographic
+title: ★ Dopplegänger Infographic
 draft: false
 tags:
   - CTS1000

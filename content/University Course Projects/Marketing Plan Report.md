@@ -1,5 +1,5 @@
 ---
-title: Marketing Plan Report
+title: ★ Aritzia Marketing Plan Report
 draft: false
 tags:
   - MCS1000

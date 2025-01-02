@@ -1,5 +1,5 @@
 ---
-title: The Great Golden Adventure - Python Exercise 1
+title: ★ The Great Golden Adventure - Python Exercise 1
 draft: false
 tags:
   - CTS2000

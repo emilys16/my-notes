@@ -1,5 +1,5 @@
 ---
-title: Project Proposal - The History of Make
+title: ★ Project Proposal - The History of Make
 draft: false
 tags:
   - CTS1000

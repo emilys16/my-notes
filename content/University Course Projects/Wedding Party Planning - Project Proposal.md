@@ -1,5 +1,5 @@
 ---
-title: Wedding Party Planning - Project Proposal
+title: ★ Wedding Party Planning - Project Proposal
 draft: false
 tags:
   - MGMT3300

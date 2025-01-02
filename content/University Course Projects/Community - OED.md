@@ -1,5 +1,5 @@
 ---
-title: ★Community - OED
+title: ★ Community - OED
 draft: false
 tags:
   - CTS1000
