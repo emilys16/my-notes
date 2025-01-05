@@ -30,6 +30,9 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (fileData.slug === "index") {
       return <></>
     }
+    if (fileData.slug === "Resume") {
+      return <></>
+    }
 
     if (text) {
       const segments: (string | JSX.Element)[] = []
